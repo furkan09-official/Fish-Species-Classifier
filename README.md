@@ -8,13 +8,7 @@ A machine learning-based web application that predicts fish species based on use
 - Predicts the species of the fish using a machine learning model.
 - Displays an image of the predicted fish species if available.
 
-## Table of Contents
-1. [Installation](#installation)
-2. [Usage](#usage)
-3. [File Structure](#file-structure)
-4. [Model](#model)
-5. [Contributing](#contributing)
-6. [License](#license)
+
 
 ## Installation
 
@@ -34,16 +28,6 @@ You can train your model using a dataset of fish species or use the pre-trained 
 3. Interact with the Application
 Enter the length, weight, and weight-length ratio of a fish.
 Click the Predict button to get the species prediction and its corresponding image.
-
-## File Structure
-├── App.py                        # The main Streamlit app
-├── model.pkl                     # Pre-trained machine learning model
-├── scaler.pkl                    # Pre-trained data scaler
-├── images/                       # Folder containing fish species images
-│   ├── Anabas testudineus.jpeg
-│   ├── Puntius lateristriga.jfif
-│   └── ...
-├── README.md                     # Project documentation
 
 
 ## Model
