@@ -19,13 +19,13 @@ A machine learning-based web application that predicts fish species based on use
 ## Installation
 
 ### Prerequisites
-- Python 3.x
-- scikit-learn
-- pandas
-- numpy
-- streamlit
+ Python 3.x.
+ scikit-learn.
+ pandas.
+ numpy.
+ streamlit.
   
-##Usage
+## Usage
 1. Train or Use Pre-Trained Model
 You can train your model using a dataset of fish species or use the pre-trained model provided(model.pkl)
 2. Run the Streamlit Application
@@ -60,11 +60,4 @@ Contributions, issues, and feature requests are welcome!
 4.Push to the branch (git push origin feature-branch).
 5.Create a new Pull Request.
 
-### Key Sections:
-1. **Installation**: Lists dependencies and instructions to set up the project.
-2. **Usage**: Shows how to run the Streamlit app.
-3. **File Structure**: Outlines the project's folder and file structure.
-4. **Model**: Describes the machine learning model used.
-5. **Contributing**: Provides guidelines for contributing to the project.
 
-Let me know if you'd like further customization!
